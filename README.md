@@ -5,7 +5,7 @@ Now updated (by claude :3) to work with the modern version of llama-server.
 A very simple interactive demo to understand the common LLM samplers. Released
 under the Apache License, version 2.0.
 
-[**See an online demo here.**](https://sais-github.github.io/llm-sampling/https://sais-github.github.io/llm-sampling/) - New probabilities from [PocketDoc/Dans-PersonalityEngine-V1.2.0-24b](https://huggingface.co/PocketDoc/Dans-PersonalityEngine-V1.2.0-24b) with more options
+[**See an online demo here.**](https://sais-github.github.io/llm-sampling/) - New probabilities from [PocketDoc/Dans-PersonalityEngine-V1.2.0-24b](https://huggingface.co/PocketDoc/Dans-PersonalityEngine-V1.2.0-24b) with more options
 
 
 [**Go check out the original online demo here.**](https://artefact2.github.io/llm-sampling/index.xhtml) [**Or original repo here.**](https://github.com/Artefact2/llm-sampling)
